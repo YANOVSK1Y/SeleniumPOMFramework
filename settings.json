@@ -1,0 +1,9 @@
+{
+  "browser": "chrome",
+  "url" : "https://store.steampowered.com ",
+  "window_height": "1000",
+  "window_width": "1500",
+  "wait_time" : 10,
+  "language": "en",
+  "incognito": "true"
+}
